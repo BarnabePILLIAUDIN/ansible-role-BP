@@ -9,5 +9,5 @@ Tested for Ubuntu and Rocky linux.
 - name: Install app - Role
   hosts: all
   roles:
-    - install-app
+    - BarnabePILLIAUDIN.BP
 ```
